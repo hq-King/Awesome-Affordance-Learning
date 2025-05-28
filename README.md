@@ -52,6 +52,8 @@ This list spans across:
 - 3D Affordance Perception
 - Affordance Reasoning
 - Affordance based Grasping & Manipulatation
+
+  
 Whether you're a researcher, developer, or enthusiast, this is your go-to hub for exploring Embodied perception.
 
 ---
