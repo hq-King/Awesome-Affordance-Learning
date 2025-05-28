@@ -2,7 +2,6 @@
   <a href="https://github.com/hq-King/Awesome-Affordance-Learning/stargazers"><img src="https://img.shields.io/github/stars/hq-King/Awesome-Affordance-Learning?style=for-the-badge" alt="Stargazers"></a>
   <a href="https://github.com/hq-King/Awesome-Affordance-Learning/network/members"><img src="https://img.shields.io/github/forks/hq-King/Awesome-Affordance-Learning?style=for-the-badge" alt="Forks"></a>
   <a href="https://github.com/hq-King/Awesome-Affordance-Learning/graphs/contributors"><img src="https://img.shields.io/github/contributors/hq-King/Awesome-Affordance-Learning?style=for-the-badge" alt="Contributors"></a>
-  <a href="https://github.com/hq-King/Awesome-Affordance-Learning/blob/main/LICENSE"><img src="https://img.shields.io/github/license/hq-King/Awesome-Affordance-Learning?style=for-the-badge" alt="MIT License"></a>
 </div>
 
 <h1 align="center">Awesome-Affordance-Learning</h1>
