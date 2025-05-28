@@ -1,4 +1,4 @@
-# Awosome-Affordance-List
+# Awosome-Affordance-Learning
 
 <div align="center">
   <a href="https://github.com/hq-King/Awesome-Affordance-Learning/stargazers"><img src="https://img.shields.io/github/stars/hq-King/Awesome-Affordance-Learning?style=for-the-badge" alt="Stargazers"></a>
