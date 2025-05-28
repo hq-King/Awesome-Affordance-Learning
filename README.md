@@ -22,7 +22,7 @@
 > 📢 This list is **actively maintained**, and community contributions are always appreciated!  
 > Feel free to [open a pull request](https://github.com/hq-King/Awesome-Affordance-Learning/pulls) if you find any relevant papers.
 
-- 🎉 `2025-05`: **Repository launched to curate a comprehensive list of affordance learning.**
+- 🎉 `2025-05`: **Repository launched to curate a comprehensive list of Affordance Learning.**
 
 ---
 - [🌟 Introduction](#-introduction)
@@ -30,7 +30,7 @@
   - [💡2D Affordance Perception]
   - [🗣️ 3D Affordance Perception]
   - [🧪 Affordance Reasoning]
-  - [📚 Affordance based Grasping & Manipulatation]
+  - [📚 Affordance based Grasping & Manipulation]
 
 
 
@@ -158,7 +158,7 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 3. **3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds.**  
    *Hengshuo Chu, Xiang Deng, Qi Lv, Xiaoyang Chen, Yinchuan Li, Jianye Hao, Liqiang Nie.* [[abs](https://arxiv.org/abs/2502.20041)], ICLR 2025
     
-### 📚 Affordance based Grasping & Manipulatation
+### 📚 Affordance based Grasping & Manipulation
 
 1. **OVAL-Prompt: Open-Vocabulary Affordance Localization for Robot Manipulation through LLM Affordance-Grounding.**  
    *Edmond Tong, Anthony Opipari, Stanley Lewis, Zhen Zeng, Odest Chadwicke Jenkins.* [[abs](https://arxiv.org/abs/2404.11000)], Arxiv 24.04
