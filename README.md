@@ -211,6 +211,8 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 16. **Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation.**  
    *Yuanchen Ju, Kaizhe Hu, Guowei Zhang, Gu Zhang, Mingrun Jiang, Huazhe Xu.* [[abs](https://arxiv.org/abs/2401.07487)], ECCV 2024
 
+17. **AffordDexGrasp: Open-set Language-guided Dexterous Grasp with Generalizable-Instructive Affordanc.**  
+   *Yi-Lin Wei, Mu Lin, Yuhao Lin, Jian-Jian Jiang, Xiao-Ming Wu, Ling-An Zeng, Wei-Shi Zheng* [[abs](https://arxiv.org/abs/2503.07360)], Arxiv
 
 ---
 
