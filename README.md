@@ -212,7 +212,11 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
    *Yuanchen Ju, Kaizhe Hu, Guowei Zhang, Gu Zhang, Mingrun Jiang, Huazhe Xu.* [[abs](https://arxiv.org/abs/2401.07487)], ECCV 2024
 
 17. **AffordDexGrasp: Open-set Language-guided Dexterous Grasp with Generalizable-Instructive Affordanc.**  
-   *Yi-Lin Wei, Mu Lin, Yuhao Lin, Jian-Jian Jiang, Xiao-Ming Wu, Ling-An Zeng, Wei-Shi Zheng* [[abs](https://arxiv.org/abs/2503.07360)], Arxiv
+   *Yi-Lin Wei, Mu Lin, Yuhao Lin, Jian-Jian Jiang, Xiao-Ming Wu, Ling-An Zeng, Wei-Shi Zheng* [[abs](https://arxiv.org/abs/2503.07360)], Arxiv 25.03
+
+18. **Learning Precise Affordances from Egocentric Videos for Robotic Manipulation.**  
+   *Gen Li, Nikolaos Tsagkas, Jifei Song, Ruaridh Mon-Williams, Sethu Vijayakumar, Kun Shao, Laura Sevilla-Lara* [[abs](https://arxiv.org/abs/2408.10123)], Arxiv 24.08
+    
 
 ---
 
