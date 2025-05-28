@@ -1,5 +1,3 @@
-# Awosome-Affordance-Learning
-
 <div align="center">
   <a href="https://github.com/hq-King/Awesome-Affordance-Learning/stargazers"><img src="https://img.shields.io/github/stars/hq-King/Awesome-Affordance-Learning?style=for-the-badge" alt="Stargazers"></a>
   <a href="https://github.com/hq-King/Awesome-Affordance-Learning/network/members"><img src="https://img.shields.io/github/forks/hq-King/Awesome-Affordance-Learning?style=for-the-badge" alt="Forks"></a>
@@ -247,3 +245,9 @@ Thanks for the wonderful project: [Awesome-LLM-Empathy](https://github.com/JhCir
 ## 📄 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Contributors
+
+<a href="https://github.com/hq-King/Awesome-Affordance-Learning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hq-King/Awesome-Affordance-Learning" />
+</a>
