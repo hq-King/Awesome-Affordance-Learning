@@ -13,19 +13,17 @@
 ## 🔥 News
 
 > 📢 This list is **actively maintained**, and community contributions are always appreciated!  
-> Feel free to [open a pull request](https://github.com/JhCircle/Awesome-LLM-Empathy/pulls) if you find any relevant papers.
+> Feel free to [open a pull request](https://github.com/JhCircle/Awesome-Affordance-List/pulls) if you find any relevant papers.
 
-- 🎉 `2025-05`: **Our paper [_ReflectDiffu_](https://arxiv.org/abs/2409.10289) was accepted at ACL 2025 Main!**
 - 🎉 `2025-05`: **Repository launched to curate a comprehensive list of Empathy-focused LM research.**
 
 ---
 - [🌟 Introduction](#-introduction)
 - [📜 Papers](#-papers)
   - [💡2D Affordance Perception]
-  - [🗣️ Empathetic Dialogue Systems]
+  - [🗣️ 3D Affordance Perception]
   - [🧪 Affordance Reasoning]
   - [📚 Affordance based Grasping & Manipulatation]
-  - [📄 Surveys & Overviews]
 
 
 
@@ -134,7 +132,6 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 15. **SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model.**  
    *Chunlin Yu, Hanqing Wang, Ye Shi, Haoyang Luo, Sibei Yang, Jingyi Yu, Jingya Wang.* [[abs](https://arxiv.org/abs/2412.01550)], CVPR 2025
 
-
 16. **3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians.**  
    *Zeming Wei, Junyi Lin, Yang Liu, Weixing Chen, Jingzhou Luo, Guanbin Li, Liang Lin.* [[abs](https://arxiv.org/abs/2504.11218)], Arxiv 2025.04
 
@@ -143,11 +140,68 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 
 ### 🧪 Affordance Reasoning
 
+1. **AffordanceLLM: Grounding Affordance from Vision Language Models.**  
+   *Shengyi Qian, Weifeng Chen, Min Bai, Xiong Zhou, Zhuowen Tu, Li Erran Li.* [[abs](https://arxiv.org/abs/2401.06341)], CVPRWS 2024
 
+2. **SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model.**  
+   *Chunlin Yu, Hanqing Wang, Ye Shi, Haoyang Luo, Sibei Yang, Jingyi Yu, Jingya Wang.* [[abs](https://arxiv.org/abs/2412.01550)], CVPR 2025
+
+3. **3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds.**  
+   *Hengshuo Chu, Xiang Deng, Qi Lv, Xiaoyang Chen, Yinchuan Li, Jianye Hao, Liqiang Nie.* [[abs](https://arxiv.org/abs/2502.20041)], ICLR 2025
+    
 ### 📚 Affordance based Grasping & Manipulatation
 
+1. **OVAL-Prompt: Open-Vocabulary Affordance Localization for Robot Manipulation through LLM Affordance-Grounding.**  
+   *Edmond Tong, Anthony Opipari, Stanley Lewis, Zhen Zeng, Odest Chadwicke Jenkins.* [[abs](https://arxiv.org/abs/2404.11000)], Arxiv 24.04
 
-### 📄 Surveys & Overviews
+2. **Learning 6-DoF Task-oriented Grasp Detection via Implicit Estimation and Visual Affordance.**  
+   *Edmond Tong, Anthony Opipari, Stanley Lewis, Zhen Zeng, Odest Chadwicke Jenkins.* [[abs](https://ieeexplore.ieee.org/abstract/document/9981900)], Iros 2022
+
+3. **Affordance-Driven Next-Best-View Planning for Robotic Grasping.**  
+   *Xuechao Zhang, Dong Wang, Sun Han, Weichuang Li, Bin Zhao, Zhigang Wang, Xiaoming Duan, Chongrong Fang, Xuelong Li, Jianping He.* [[abs](https://arxiv.org/abs/2309.09556)], Arxiv 23.09
+   
+4. **Learning Generalizable Dexterous Manipulation from Human Grasp Affordance.**  
+   *Yueh-Hua Wu, Jiashun Wang, Xiaolong Wang.* [[abs](https://arxiv.org/abs/2204.02320)], Arxiv 22.04
+
+5. **UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation.**  
+   *Yihe Tang1, Wenlong Huang1, Yingke Wang1, Chengshu Li1, Roy Yuan1, Ruohan Zhang1, Jiajun Wu1, Li Fei-Fei1.* [[abs](https://gpt-affordance.github.io/)], ICRA 2025
+
+6. **AffordDP: Generalizable Diffusion Policy with Transferable Affordance.**  
+   *Shijie Wu, Yihang Zhu, Yunao Huang, Kaizhen Zhu, Jiayuan Gu, Jingyi Yu, Ye Shi, Jingya Wang.* [[abs](https://arxiv.org/abs/2412.03142)], CVPR 2025
+
+7. **GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation.**  
+   *Teli Ma, Jia Zheng, Zifan Wang, Ziyao Gao, Jiaming Zhou, Junwei Liang.* [[abs](https://arxiv.org/abs/2505.11865)], Arxiv 2025.05
+
+8. **GLOVER: Generalizable Open-Vocabulary Affordance Reasoning for Task-Oriented Grasping.**  
+   *Teli Ma, Zifan Wang, Jiaming Zhou, Mengmeng Wang, Junwei Liang.* [[abs](https://arxiv.org/abs/2505.11865)], Arxiv 2024.11
+
+9. **BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly.**  
+   *Yan Shen, Ruihai Wu, Yubin Ke, Xinyuan Song, Zeyi Li, Xiaoqi Li, Hongwei Fan, Haoran Lu, Hao Dong.* [[abs](https://sites.google.com/view/biassembly)], ICML 2025
+
+10. **GarmentPile: Point-Level Visual Affordance Guided Retrieval and Adaptation for Cluttered Garments Manipulation.**  
+   *Ruihai Wu, Ziyu Zhu, Yuran Wang, Yue Chen, Jiarui Wang, Hao Dong.* [[abs](https://arxiv.org/pdf/2503.09243)], CVPR 2025
+
+11. **NaturalVLM: Leveraging Fine-grained Natural Language for Affordance-Guided Visual Manipulation.**  
+   *Ran Xu, Yan Shen, Xiaoqi Li, Ruihai Wu, Hao Dong.* [[abs](https://arxiv.org/pdf/2403.08355)], RAL 2024
+
+12. **ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models.**  
+   *Siyuan Huang, Iaroslav Ponomarenko, Zhengkai Jiang, Xiaoqi Li, Xiaobin Hu, Peng Gao, Hongsheng Li, Hao Dong.* [[abs](https://arxiv.org/pdf/2403.08355)], IROS 2024
+
+13. **Learning Environment-aware Affordance for 3D Articulated Object Manipulation under Occlusions.**  
+   *Ruihai Wu, Kai Cheng, Yan Zhao, Chuanruo Ning, Guanqi Zhan, Hao Dong.* [[abs](https://arxiv.org/abs/2309.07510)], NeurIPS 2023
+
+14. **DefoAfford: Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation.**  
+   *Ruihai Wu, Chuanruo Ning, Hao Dong.* [[abs](https://arxiv.org/abs/2303.11057)], ICCV 2023
+
+15. **RLAfford: End-to-End Affordance Learning for Robotic Manipulation.**  
+   *Yiran Geng, Boshi An, Haoran Geng, Yuanpei Chen, Yaodong Yang, Hao Dong.* [[abs](https://arxiv.org/pdf/2209.12941)], ICRA 2023
+
+16. **DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation.**  
+   *Yan Zhao, Ruihai Wu, Zhehuan Chen, Yourong Zhang, Qingnan Fan, Kaichun Mo, Hao Dong.* [[abs](https://arxiv.org/pdf/2207.01971)], ICLR 2023
+
+16. **Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation.**  
+   *Yuanchen Ju, Kaizhe Hu, Guowei Zhang, Gu Zhang, Mingrun Jiang, Huazhe Xu.* [[abs](https://arxiv.org/abs/2401.07487)], ECCV 2024
+
 
 ---
 
