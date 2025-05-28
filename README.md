@@ -1,11 +1,11 @@
 # Awosome-Affordance-List
 
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/JhCircle/Awesome-LLM-Empathy)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/hq-King/Awesome-Affordance-Learning)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![Last Commit](https://img.shields.io/github/last-commit/hq-King/Awesome-Affordance-List?color=green)
+![Last Commit](https://img.shields.io/github/last-commit/hq-King/Awesome-Affordance-Learning?color=green)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-red)
-![GitHub Repo stars](https://img.shields.io/github/stars/hq-King/Awesome-Affordance-List?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/hq-King/Awesome-Affordance-Learning?style=social)
 > 🧭 Exploring Embodied AI and Embodied perception ? We hope this collection proves useful in your journey. If you'd like to support the project, feel free to ⭐️ the repo and share it with your peers. Contributions are warmly welcome!
 
 ---
@@ -13,7 +13,7 @@
 ## 🔥 News
 
 > 📢 This list is **actively maintained**, and community contributions are always appreciated!  
-> Feel free to [open a pull request](https://github.com/JhCircle/Awesome-Affordance-List/pulls) if you find any relevant papers.
+> Feel free to [open a pull request](https://github.com/hq-King/Awesome-Affordance-Learning/pulls) if you find any relevant papers.
 
 - 🎉 `2025-05`: **Repository launched to curate a comprehensive list of Empathy-focused LM research.**
 
