@@ -73,11 +73,73 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 9. **LOCATE: Localize and Transfer Object Parts for Weakly Supervised Affordance Grounding.**  
    *Gen Li, Varun Jampani, Deqing Sun, Laura Sevilla-Lara.* [[abs](https://arxiv.org/abs/2303.09665)], CVPR 2023
 
-10. **One-Shot Transfer of Affordance Regions? AffCorrs!.**  
+10. **Affordance Grounding From Demonstration Video To Target Image.**  
+   *Joya Chen, Difei Gao, Kevin Qinghong Lin, Mike Zheng Shou.* [[abs](https://arxiv.org/abs/2303.14644)], CVPR 2023
+    
+11. **One-Shot Transfer of Affordance Regions? AffCorrs!.**  
    *Denis Hadjivelichkov, Sicelukwanda Zwane, Marc Peter Deisenroth, Lourdes Agapito, Dimitrios Kanoulas.* [[abs](https://arxiv.org/abs/2303.09665)], CoRL 2023
 
+12. **Text-driven Affordance Learning from Egocentric Vision.**  
+   *Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, Shinsuke Mori.* [[abs](https://arxiv.org/abs/2309.10932)], Arxiv 2023.09
+
+13. **MaskPrompt: Open-Vocabulary Affordance Segmentation with Object Shape Mask Prompts.**  
+   *Dongpan Chen, Dehui Kong, Jinghua Li, Baocai Yin. [[abs](https://ojs.aaai.org/index.php/AAAI/article/view/32200)], AAAI 2025
+
+    
 
 ### 🗣️ 3D Affordance Perception
+
+1. **3D AffordanceNet: A Benchmark for Visual Object Affordance Understanding.**  
+   *Shengheng Deng, Xun Xu, Chaozheng Wu, Ke Chen, Kui Jia.* [[abs](https://arxiv.org/abs/2103.16397)], CVPR 2021
+
+2. **Where2explore: Few-shot affordance learning for unseen novel categories of articulated objects.**  
+   *Chuanruo Ning, Ruihai Wu, Haoran Lu, Kaichun Mo, Hao Dong.* [[abs](https://arxiv.org/abs/2103.16397)], NeurIPS 2023
+   
+3. **LASO: Language-guided Affordance Segmentation on 3D Object.**  
+   *Yicong Li, Na Zhao, Junbin Xiao, Chun Feng, Xiang Wang, Tat-seng Chua.* [[abs](https://openaccess.thecvf.com/content/CVPR2024/html/Li_LASO_Language-guided_Affordance_Segmentation_on_3D_Object_CVPR_2024_paper.html)], CVPR 2024
+
+4. **SceneFun3D: Fine-Grained Functionality and Affordance Understanding in 3D Scenes.**  
+   *Shengheng Deng, Xun Xu, Chaozheng Wu, Ke Chen, Kui Jia.* [[abs](https://openaccess.thecvf.com/content/CVPR2024/html/Delitzas_SceneFun3D_Fine-Grained_Functionality_and_Affordance_Understanding_in_3D_Scenes_CVPR_2024_paper.html)], CVPR 2024
+
+5. **Grounding 3D Object Affordance from 2D Interactions in Images.**  
+   *Yuhang Yang, Wei Zhai, Hongchen Luo, Yang Cao, Jiebo Luo, Zheng-Jun Zha.* [[abs](https://arxiv.org/abs/2303.10437)], ICCV 2023
+
+6. **Learning 2d invariant affordance knowledge for 3d affordance grounding.**  
+   *Xianqiang Gao, Pingrui Zhang, Delin Qu, Dong Wang, Zhigang Wang, Yan Ding, Bin Zhao.* [[abs](https://arxiv.org/abs/2408.13024)], AAAI 2025
+
+7. **LEMON: Learning 3D Human-Object Interaction Relation from 2D Images.**  
+   *Yuhang Yang, Wei Zhai, Hongchen Luo, Yang Cao, Zheng-Jun Zha.* [[abs](https://arxiv.org/abs/2312.08963)], CVPR 2024
+
+8. **Open-vocabulary affordance detection in 3d point clouds.**  
+   *Toan Nguyen, Minh Nhat Vu, An Vuong, Dzung Nguyen, Thieu Vo, Ngan Le, Anh Nguyen.* [[abs](https://arxiv.org/abs/2303.02401)], IROS 2023
+
+9. **Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation.**  
+   *Tuan Van Vo, Minh Nhat Vu, Baoru Huang, Toan Nguyen, Ngan Le, Thieu Vo, Anh Nguyen.* [[abs](https://arxiv.org/abs/2309.10932)], ICRA 2024
+
+10. **3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds.**  
+   *Hengshuo Chu, Xiang Deng, Qi Lv, Xiaoyang Chen, Yinchuan Li, Jianye Hao, Liqiang Nie.* [[abs](https://arxiv.org/abs/2502.20041)], ICLR 2025
+
+11. **Grounding 3D Scene Affordance From Egocentric Interactions.**  
+   *Cuiyu Liu, Wei Zhai, Yuhang Yang, Hongchen Luo, Sen Liang, Yang Cao, Zheng-Jun Zha.* [[abs](https://arxiv.org/abs/2409.19650)], Arxiv 2024.09
+
+12. **Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions.**  
+   *He Zhu, Quyu Kong, Kechun Xu, Xunlong Xia, Bing Deng, Jieping Ye, Rong Xiong, Yue Wang.* [[abs](https://arxiv.org/abs/2504.04744)], CVPR 2025
+
+13. **GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency.**  
+   *Dongyue Lu, Lingdong Kong, Tianxin Huang, Gim Hee Lee.* [[abs](https://arxiv.org/abs/2412.09511)], CVPR 2025
+
+14. **GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding.**  
+   *Yawen Shao, Wei Zhai, Yuhang Yang, Hongchen Luo, Yang Cao, Zheng-Jun Zha.* [[abs](https://arxiv.org/abs/2411.19626)], CVPR 2025
+
+15. **SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model.**  
+   *Chunlin Yu, Hanqing Wang, Ye Shi, Haoyang Luo, Sibei Yang, Jingyi Yu, Jingya Wang.* [[abs](https://arxiv.org/abs/2412.01550)], CVPR 2025
+
+
+16. **3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians.**  
+   *Zeming Wei, Junyi Lin, Yang Liu, Weixing Chen, Jingzhou Luo, Guanbin Li, Liang Lin.* [[abs](https://arxiv.org/abs/2504.11218)], Arxiv 2025.04
+
+
+
 
 ### 🧪 Affordance Reasoning
 
