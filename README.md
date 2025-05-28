@@ -46,16 +46,48 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 ---
 ## 📜 Papers
 ### 💡 2D Affordance Perception
+1. **AffordanceSAM: Segment Anything Once More in Affordance Grounding.**  
+   *Dengyang Jiang, Mengmeng Wang, Teli Ma, Hengzhuang Li, Yong liu, Guang Dai, Lei Zhang.* [[abs](https://arxiv.org/abs/2504.15650)], Arxiv 2025.04
+
+2. **GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation.**  
+   *Teli Ma, Jia Zheng, Zifan Wang, Ziyao Gao, Jiaming Zhou, Junwei Liang.* [[abs](https://arxiv.org/abs/2505.11865)], Arxiv 2025.05
+
+3. **One-Shot Open Affordance Learning with Foundation Models.**  
+   *Gen Li, Deqing Sun, Laura Sevilla-Lara, Varun Jampani.* [[abs](https://arxiv.org/abs/2311.17776)], CVPR 2024
+
+4. **Weakly-Supervised Affordance Grounding Guided by Part-Level Semantic Priors.**  
+   *Peiran Xu, Yadong Mu.* [[abs](https://openreview.net/pdf?id=0823rvTIhs))], ICLR 2025
+
+5. **AffordanceLLM: Grounding Affordance from Vision Language Models.**  
+   *Shengyi Qian, Weifeng Chen, Min Bai, Xiong Zhou, Zhuowen Tu, Li Erran Li.* [[abs](https://arxiv.org/abs/2401.06341)], CVPRWS 2024
+
+6. **Learning Affordance Grounding from Exocentric Images.**  
+   *Hongchen Luo, Wei Zhai, Jing Zhang, Yang Cao, Dacheng Tao.* [[abs](https://arxiv.org/abs/2203.09905)], CVPR 2022
+
+7. **One-Shot Affordance Detection.**  
+   *Hongchen Luo, Wei Zhai, Jing Zhang, Yang Cao, Dacheng Tao.* [[abs](https://arxiv.org/abs/2106.14747)], IJCAI 2021
+
+8. **WorldAfford: Affordance Grounding based on Natural Language Instructions.**  
+   *Changmao Chen, Yuren Cong, Zhen Kan.* [[abs](https://arxiv.org/abs/2405.12461)], Arxiv 2024.05
+
+9. **LOCATE: Localize and Transfer Object Parts for Weakly Supervised Affordance Grounding.**  
+   *Gen Li, Varun Jampani, Deqing Sun, Laura Sevilla-Lara.* [[abs](https://arxiv.org/abs/2303.09665)], CVPR 2023
+
+10. **One-Shot Transfer of Affordance Regions? AffCorrs!.**  
+   *Denis Hadjivelichkov, Sicelukwanda Zwane, Marc Peter Deisenroth, Lourdes Agapito, Dimitrios Kanoulas.* [[abs](https://arxiv.org/abs/2303.09665)], CoRL 2023
+
+
 ### 🗣️ 3D Affordance Perception
 
 ### 🧪 Affordance Reasoning
 
 
----
 ### 📚 Affordance based Grasping & Manipulatation
 
 
 ### 📄 Surveys & Overviews
+
+---
 
 ## 🎉 Contributing
 ⭐ Help us grow this repository! If you know any valuable works we’ve missed, don’t hesitate to contribute — every suggestion makes a difference!
