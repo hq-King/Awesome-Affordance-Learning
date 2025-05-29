@@ -220,6 +220,10 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 19. **DORA: Object Affordance-Guided Reinforcement Learning for Dexterous Robotic Manipulation.**  
    *Lei Zhang, Soumya Mondal, Zhenshan Bing, Kaixin Bai, Diwen Zheng, Zhaopeng Chen, Alois Christian Knoll, Jianwei Zhang* [[abs](https://arxiv.org/abs/2505.14819)], Arxiv 25.05
 
+20. **A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation.**  
+   *Rongtao Xu, Jian Zhang, Minghao Guo, Youpeng Wen, Haoting Yang, Min Lin, Jianzheng Huang, Zhe Li, Kaidong Zhang, Liqiong Wang, Yuxuan Kuang, Meng Cao, Feng Zheng, Xiaodan Liang* [[abs](https://arxiv.org/abs/2504.12636)], Arxiv 25.04
+    
+
 ---
 
 ## 🎉 Contributing
