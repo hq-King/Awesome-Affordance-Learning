@@ -216,7 +216,9 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 
 18. **Learning Precise Affordances from Egocentric Videos for Robotic Manipulation.**  
    *Gen Li, Nikolaos Tsagkas, Jifei Song, Ruaridh Mon-Williams, Sethu Vijayakumar, Kun Shao, Laura Sevilla-Lara* [[abs](https://arxiv.org/abs/2408.10123)], Arxiv 24.08
-    
+
+19. **DORA: Object Affordance-Guided Reinforcement Learning for Dexterous Robotic Manipulation.**  
+   *Lei Zhang, Soumya Mondal, Zhenshan Bing, Kaixin Bai, Diwen Zheng, Zhaopeng Chen, Alois Christian Knoll, Jianwei Zhang* [[abs](https://arxiv.org/abs/2505.14819)], Arxiv 25.05
 
 ---
 
