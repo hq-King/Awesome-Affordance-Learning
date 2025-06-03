@@ -157,6 +157,9 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 
 3. **3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds.**  
    *Hengshuo Chu, Xiang Deng, Qi Lv, Xiaoyang Chen, Yinchuan Li, Jianye Hao, Liqiang Nie.* [[abs](https://arxiv.org/abs/2502.20041)], ICLR 2025
+   
+4. **Affordance Benchmark for MLLMs.**  
+   *Junying Wang, Wenzhe Li, Yalun Wu, Yingji Liang, Yijin Guo, Chunyi Li, Haodong Duan, Zicheng Zhang, Guangtao Zhai.* [[abs](https://arxiv.org/abs/2506.00893)], Arxiv 25.06
     
 ### 📚 Affordance based Grasping & Manipulation
 
