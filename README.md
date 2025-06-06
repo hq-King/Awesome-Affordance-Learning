@@ -90,9 +90,10 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
    *Tomoya Yoshida, Shuhei Kurita, Taichi Nishimura, Shinsuke Mori.* [[abs](https://arxiv.org/abs/2309.10932)], Arxiv 2023.09
 
 13. **MaskPrompt: Open-Vocabulary Affordance Segmentation with Object Shape Mask Prompts.**  
-   *Dongpan Chen, Dehui Kong, Jinghua Li, Baocai Yin. [[abs](https://ojs.aaai.org/index.php/AAAI/article/view/32200)], AAAI 2025
+   *Dongpan Chen, Dehui Kong, Jinghua Li, Baocai Yin.* [[abs](https://ojs.aaai.org/index.php/AAAI/article/view/32200)], AAAI 2025
 
-    
+14. **Reasoning Mamba: Hypergraph-Guided Region Relation Calculating for Weakly Supervised Affordance Grounding.**  
+   *Yuxuan Wang, Aming Wu, Muli Yang, Yukuan Min, Yihang Zhu, Cheng Deng.* [[abs](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Reasoning_Mamba_Hypergraph-Guided_Region_Relation_Calculating_for_Weakly_Supervised_Affordance_CVPR_2025_paper.pdf)], CVPR 2025 
 
 ### 🗣️ 3D Affordance Perception
 
@@ -144,6 +145,8 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 16. **3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians.**  
    *Zeming Wei, Junyi Lin, Yang Liu, Weixing Chen, Jingzhou Luo, Guanbin Li, Liang Lin.* [[abs](https://arxiv.org/abs/2504.11218)], Arxiv 2025.04
 
+16. **IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments.**  
+   *Can Zhang, Gim Hee Lee.* [[abs](https://arxiv.org/abs/2504.06827)], CVPR 2025
 
 
 
