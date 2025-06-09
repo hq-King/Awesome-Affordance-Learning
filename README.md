@@ -229,7 +229,8 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 20. **A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation.**  
    *Rongtao Xu, Jian Zhang, Minghao Guo, Youpeng Wen, Haoting Yang, Min Lin, Jianzheng Huang, Zhe Li, Kaidong Zhang, Liqiong Wang, Yuxuan Kuang, Meng Cao, Feng Zheng, Xiaodan Liang* [[abs](https://arxiv.org/abs/2504.12636)], Arxiv 25.04
     
-
+21. **BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly.**  
+   *Yan Shen, Ruihai Wu, Yubin Ke, Xinyuan Song, Zeyi Li, Xiaoqi Li, Hongwei Fan, Haoran Lu, Hao dong* [[abs](https://arxiv.org/abs/2506.06221)], ICML 2025
 ---
 
 ## 🎉 Contributing
