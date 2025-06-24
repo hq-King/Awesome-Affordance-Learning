@@ -145,9 +145,11 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 16. **3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians.**  
    *Zeming Wei, Junyi Lin, Yang Liu, Weixing Chen, Jingzhou Luo, Guanbin Li, Liang Lin.* [[abs](https://arxiv.org/abs/2504.11218)], Arxiv 2025.04
 
-16. **IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments.**  
+17. **IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments.**  
    *Can Zhang, Gim Hee Lee.* [[abs](https://arxiv.org/abs/2504.06827)], CVPR 2025
 
+18. **Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale.**  
+   *Junha Lee, Eunha Park, Chunghyun Park, Dahyun Kang, Minsu Cho.* [[abs](https://arxiv.org/abs/2506.12009)], Arxiv 2025.06
 
 
 ### 🧪 Affordance Reasoning
