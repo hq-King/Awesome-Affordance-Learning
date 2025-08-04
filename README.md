@@ -165,7 +165,15 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
    
 4. **Affordance Benchmark for MLLMs.**  
    *Junying Wang, Wenzhe Li, Yalun Wu, Yingji Liang, Yijin Guo, Chunyi Li, Haodong Duan, Zicheng Zhang, Guangtao Zhai.* [[abs](https://arxiv.org/abs/2506.00893)], Arxiv 25.06
+
+5. **RAGNet: Large-scale Reasoning-based Affordance Segmentation Benchmark towards General Grasping.**  
+   *Dongming Wu, Yanping Fu, Saike Huang, Yingfei Liu, Fan Jia, Nian Liu, Feng Dai, Tiancai Wang, Rao Muhammad Anwer, Fahad Shahbaz Khan, Jianbing Shen.* [[abs](https://arxiv.org/abs/2507.23734)], Arxiv 25.8
+
+6. **SeqAffordSplat: Scene-level Sequential Affordance Reasoning on 3D Gaussian Splatting.**  
+   *Di Li, Jie Feng, Jiahao Chen, Weisheng Dong, Guanbin Li, Yuhui Zheng, Mingtao Feng, Guangming Shi.* [[abs](https://arxiv.org/abs/2507.23772)], Arxiv 25.8
+   
     
+
 ### 📚 Affordance based Grasping & Manipulation
 
 1. **OVAL-Prompt: Open-Vocabulary Affordance Localization for Robot Manipulation through LLM Affordance-Grounding.**  
