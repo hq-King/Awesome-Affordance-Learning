@@ -172,7 +172,10 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 6. **SeqAffordSplat: Scene-level Sequential Affordance Reasoning on 3D Gaussian Splatting.**  
    *Di Li, Jie Feng, Jiahao Chen, Weisheng Dong, Guanbin Li, Yuhui Zheng, Mingtao Feng, Guangming Shi.* [[abs](https://arxiv.org/abs/2507.23772)], Arxiv 25.8
    
-    
+6. **Affordance-R1: Reinforcement Learning for Generalizable Affordance Reasoning in Multimodal Large Language Model.**  
+   *Hanqing Wang, Shaoyang Wang, Yiming Zhong, Zemin Yang, Jiamin Wang, Zhiqing Cui, Jiahao Yuan, Yifan Han, Mingyu Liu, Yuexin Ma.* [[abs](https://arxiv.org/abs/2508.06206)], Arxiv 25.8
+
+   
 
 ### 📚 Affordance based Grasping & Manipulation
 
