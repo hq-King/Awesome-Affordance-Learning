@@ -93,7 +93,14 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
    *Dongpan Chen, Dehui Kong, Jinghua Li, Baocai Yin.* [[abs](https://ojs.aaai.org/index.php/AAAI/article/view/32200)], AAAI 2025
 
 14. **Reasoning Mamba: Hypergraph-Guided Region Relation Calculating for Weakly Supervised Affordance Grounding.**  
-   *Yuxuan Wang, Aming Wu, Muli Yang, Yukuan Min, Yihang Zhu, Cheng Deng.* [[abs](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Reasoning_Mamba_Hypergraph-Guided_Region_Relation_Calculating_for_Weakly_Supervised_Affordance_CVPR_2025_paper.pdf)], CVPR 2025 
+   *Yuxuan Wang, Aming Wu, Muli Yang, Yukuan Min, Yihang Zhu, Cheng Deng.* [[abs](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Reasoning_Mamba_Hypergraph-Guided_Region_Relation_Calculating_for_Weakly_Supervised_Affordance_CVPR_2025_paper.pdf)], CVPR 2025
+
+15. **Selective Contrastive Learning for Weakly Supervised Affordance Grounding.**  
+   *WonJun Moon, Hyun Seok Seong, Jae-Pil Heo.* [[abs](https://arxiv.org/abs/2508.07877)], Arxiv 2025.08
+
+    
+
+
 
 ### 🗣️ 3D Affordance Perception
 
@@ -244,6 +251,10 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
     
 21. **BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly.**  
    *Yan Shen, Ruihai Wu, Yubin Ke, Xinyuan Song, Zeyi Li, Xiaoqi Li, Hongwei Fan, Haoran Lu, Hao dong* [[abs](https://arxiv.org/abs/2506.06221)], ICML 2025
+
+22. **    Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors.**  
+   *Haoyu Zhao, Linghao Zhuang, Xingyue Zhao, Cheng Zeng, Haoran Xu, Yuming Jiang, Jun Cen, Kexiang Wang, Jiayan Guo, Siteng Huang, Xin Li, Deli Zhao, Hua Zou* [[abs](https://arxiv.org/abs/2508.08896)], Arxiv 2025.08
+
 ---
 
 ## 🎉 Contributing
