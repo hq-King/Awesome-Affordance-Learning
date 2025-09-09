@@ -22,7 +22,7 @@
 > 📢 This list is **actively maintained**, and community contributions are always appreciated!  
 > Feel free to [open a pull request](https://github.com/hq-King/Awesome-Affordance-Learning/pulls) if you find any relevant papers.
 
-- 🎉 `2025-05`: **Our Affordance-R1 released, check it now [Affordance-R1](https://arxiv.org/abs/2508.06206).**
+- 🎉 `2025-08`: **Our Affordance-R1 released, check it now [Affordance-R1](https://arxiv.org/abs/2508.06206).**
 - 🎉 `2025-05`: **Repository launched to curate a comprehensive list of Affordance Learning.**
 
 ---
