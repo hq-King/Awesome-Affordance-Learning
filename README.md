@@ -159,6 +159,9 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 18. **Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale.**  
    *Junha Lee, Eunha Park, Chunghyun Park, Dahyun Kang, Minsu Cho.* [[abs](https://arxiv.org/abs/2506.12009)], Arxiv 2025.06
 
+19. **O^3Afford: One-Shot 3D Object-to-Object Affordance Grounding for Generalizable Robotic Manipulation.**  
+   *Tongxuan Tian, Xuhui Kang, Yen-Ling Kuo.* [[abs](https://arxiv.org/abs/2509.06233)], CORL 2025
+    
 
 ### 🧪 Affordance Reasoning
 
