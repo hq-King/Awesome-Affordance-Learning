@@ -169,7 +169,7 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
    *Lian He, Meng Liu, Qilang Ye, Yu Zhou, Xiang Deng, Gangyi Ding.* [[abs](https://arxiv.org/abs/2509.06233)], AAAI 2026
 
 21. **Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge**  
-   *Yu Huang, Zelin Peng, Changsong Wen, Xiaokang Yang, Wei Shen.* [[abs](https://arxiv.org/abs/2510.08316)], AAAI 2026
+   *Yu Huang, Zelin Peng, Changsong Wen, Xiaokang Yang, Wei Shen.* [[abs](https://arxiv.org/abs/2510.08316)], Arxiv 25.11
 
 ### 🧪 Affordance Reasoning
 
@@ -192,7 +192,7 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
    *Di Li, Jie Feng, Jiahao Chen, Weisheng Dong, Guanbin Li, Yuhui Zheng, Mingtao Feng, Guangming Shi.* [[abs](https://arxiv.org/abs/2507.23772)], Arxiv 25.8
    
 7. **Affordance-R1: Reinforcement Learning for Generalizable Affordance Reasoning in Multimodal Large Language Model.**  
-   *Hanqing Wang, Shaoyang Wang, Yiming Zhong, Zemin Yang, Jiamin Wang, Zhiqing Cui, Jiahao Yuan, Yifan Han, Mingyu Liu, Yuexin Ma.* [[abs](https://arxiv.org/abs/2508.06206)], Arxiv 25.8
+   *Hanqing Wang, Shaoyang Wang, Yiming Zhong, Zemin Yang, Jiamin Wang, Zhiqing Cui, Jiahao Yuan, Yifan Han, Mingyu Liu, Yuexin Ma.* [[abs](https://arxiv.org/abs/2508.06206)], AAAI 2026
 
 8. **AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models.**  
    *Xinyi Wang, Xun Yang, Yanlong Xu, Yuchen Wu, Zhen Li, Na Zhao.* [[abs](https://arxiv.org/abs/2511.10017)], Nips 2025
