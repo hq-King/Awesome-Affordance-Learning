@@ -99,8 +99,11 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 15. **Selective Contrastive Learning for Weakly Supervised Affordance Grounding.**  
    *WonJun Moon, Hyun Seok Seong, Jae-Pil Heo.* [[abs](https://arxiv.org/abs/2508.07877)], Arxiv 2025.08
 
+16. **RoboAfford++: A Generative AI-Enhanced Dataset for Multimodal Affordance Learning in Robotic Manipulation and Navigation.**  
+   *Xiaoshuai Hao, Yingbo Tang, Lingfeng Zhang, Yanbiao Ma, Yunfeng Diao, Ziyu Jia, Wenbo Ding, Hangjun Ye, Long Chen.* [[abs](https://arxiv.org/abs/2511.12436)], Arxiv 2025.11
     
-
+17. **Closed-Loop Transfer for Weakly-supervised Affordance Grounding.**  
+   *Jiajin Tang, Zhengxuan Wei, Ge Zheng, Sibei Yang.* [[abs](https://arxiv.org/abs/2510.17384)], ICCV 2025
 
 
 ### 🗣️ 3D Affordance Perception
@@ -161,7 +164,12 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 
 19. **O^3Afford: One-Shot 3D Object-to-Object Affordance Grounding for Generalizable Robotic Manipulation.**  
    *Tongxuan Tian, Xuhui Kang, Yen-Ling Kuo.* [[abs](https://arxiv.org/abs/2509.06233)], CORL 2025
-    
+
+20. **Task-Aware 3D Affordance Segmentation via 2D Guidance and Geometric Refinement.**  
+   *Lian He, Meng Liu, Qilang Ye, Yu Zhou, Xiang Deng, Gangyi Ding.* [[abs](https://arxiv.org/abs/2509.06233)], AAAI 2026
+
+21. **Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge**  
+   *Yu Huang, Zelin Peng, Changsong Wen, Xiaokang Yang, Wei Shen.* [[abs](https://arxiv.org/abs/2510.08316)], AAAI 2026
 
 ### 🧪 Affordance Reasoning
 
@@ -183,10 +191,13 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 6. **SeqAffordSplat: Scene-level Sequential Affordance Reasoning on 3D Gaussian Splatting.**  
    *Di Li, Jie Feng, Jiahao Chen, Weisheng Dong, Guanbin Li, Yuhui Zheng, Mingtao Feng, Guangming Shi.* [[abs](https://arxiv.org/abs/2507.23772)], Arxiv 25.8
    
-6. **Affordance-R1: Reinforcement Learning for Generalizable Affordance Reasoning in Multimodal Large Language Model.**  
+7. **Affordance-R1: Reinforcement Learning for Generalizable Affordance Reasoning in Multimodal Large Language Model.**  
    *Hanqing Wang, Shaoyang Wang, Yiming Zhong, Zemin Yang, Jiamin Wang, Zhiqing Cui, Jiahao Yuan, Yifan Han, Mingyu Liu, Yuexin Ma.* [[abs](https://arxiv.org/abs/2508.06206)], Arxiv 25.8
 
+8. **AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models.**  
+   *Xinyi Wang, Xun Yang, Yanlong Xu, Yuchen Wu, Zhen Li, Na Zhao.* [[abs](https://arxiv.org/abs/2511.10017)], Nips 2025
    
+
 
 ### 📚 Affordance based Grasping & Manipulation
 
@@ -256,10 +267,17 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 21. **BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly.**  
    *Yan Shen, Ruihai Wu, Yubin Ke, Xinyuan Song, Zeyi Li, Xiaoqi Li, Hongwei Fan, Haoran Lu, Hao dong* [[abs](https://arxiv.org/abs/2506.06221)], ICML 2025
 
-22. **    Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors.**  
+22. **Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors.**  
    *Haoyu Zhao, Linghao Zhuang, Xingyue Zhao, Cheng Zeng, Haoran Xu, Yuming Jiang, Jun Cen, Kexiang Wang, Jiayan Guo, Siteng Huang, Xin Li, Deli Zhao, Hua Zou* [[abs](https://arxiv.org/abs/2508.08896)], Arxiv 2025.08
 
+23. **OVAL-Grasp: Open-Vocabulary Affordance Localization for Task Oriented Grasping.**  
+   *Edmond Tong, Advaith Balaji, Anthony Opipari, Stanley Lewis, Zhen Zeng, Odest Chadwicke Jenkins* [[abs](https://arxiv.org/abs/2511.20841)], Arxiv 2025.11
+
+23. **ScaleADFG: Affordance-based Dexterous Functional Grasping via Scalable Dataset.**  
+   *Sizhe Wang, Yifan Yang, Yongkang Luo, Daheng Li, Wei Wei, Yan Zhang, Peiying Hu, Yunjin Fu, Haonan Duan, Jia Sun, Peng Wang* [[abs](https://arxiv.org/abs/2511.09602)], RAL 2025
+    
 ---
+
 
 ## 🎉 Contributing
 ⭐ Help us grow this repository! If you know any valuable works we’ve missed, don’t hesitate to contribute — every suggestion makes a difference!
