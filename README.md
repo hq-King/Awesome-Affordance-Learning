@@ -171,6 +171,9 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 21. **Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge**  
    *Yu Huang, Zelin Peng, Changsong Wen, Xiaokang Yang, Wei Shen.* [[abs](https://arxiv.org/abs/2510.08316)], Arxiv 25.11
 
+22. **Open-Vocabulary 3D Affordance Understanding via Functional Text Enhancement and Multilevel Representation Alignment.**  
+   *Lin Wu, Wei Wei, Peizhuo Yu, Jianglin Lan.* [[abs](https://dl.acm.org/doi/abs/10.1145/3746027.3755239)], ACM MM 2025
+
 ### 🧪 Affordance Reasoning
 
 1. **AffordanceLLM: Grounding Affordance from Vision Language Models.**  
