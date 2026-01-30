@@ -276,9 +276,20 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 23. **OVAL-Grasp: Open-Vocabulary Affordance Localization for Task Oriented Grasping.**  
    *Edmond Tong, Advaith Balaji, Anthony Opipari, Stanley Lewis, Zhen Zeng, Odest Chadwicke Jenkins* [[abs](https://arxiv.org/abs/2511.20841)], Arxiv 2025.11
 
-23. **ScaleADFG: Affordance-based Dexterous Functional Grasping via Scalable Dataset.**  
+24. **ScaleADFG: Affordance-based Dexterous Functional Grasping via Scalable Dataset.**  
    *Sizhe Wang, Yifan Yang, Yongkang Luo, Daheng Li, Wei Wei, Yan Zhang, Peiying Hu, Yunjin Fu, Haonan Duan, Jia Sun, Peng Wang* [[abs](https://arxiv.org/abs/2511.09602)], RAL 2025
-    
+
+25. **TRACER: Texture-Robust Affordance Chain-of-Thought for Deformable-Object Refinement.**  
+   *Wanjun Jia, Kang Li, Fan Yang, Mengfei Duan, Wenrui Chen, Yiming Jiang, Hui Zhang, Kailun Yang, Zhiyong Li, Yaonan Wang* [[abs](https://arxiv.org/abs/2601.20208)], Arxiv 2026.01
+
+26. **A3D: Adaptive Affordance Assembly with Dual-Arm Manipulation.**  
+   *Jiaqi Liang, Yue Chen, Qize Yu, Yan Shen, Haipeng Zhang, Hao Dong, Ruihai Wu* [[abs](https://arxiv.org/abs/2601.11076)], Arxiv 2026.01
+
+27. **FSAG: Enhancing Human-to-Dexterous-Hand Finger-Specific Affordance Grounding via Diffusion Models.**  
+   *Yifan Han, Pengfei Yi, Junyan Li, Hanqing Wang, Gaojing Zhang, Qi Peng Liu, Wenzhao Lian* [[abs](https://arxiv.org/abs/2601.08246)], Arxiv 2026.01
+
+
+
 ---
 
 
