@@ -174,6 +174,23 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 22. **Open-Vocabulary 3D Affordance Understanding via Functional Text Enhancement and Multilevel Representation Alignment.**  
    *Lin Wu, Wei Wei, Peizhuo Yu, Jianglin Lan.* [[abs](https://dl.acm.org/doi/abs/10.1145/3746027.3755239)], ACM MM 2025
 
+23. **SceneTeract: Agentic Functional Affordances and VLM Grounding in 3D Scenes.**  
+   *Léopold Maillard, Francis Engelmann, Tom Durand, Boxiao Pan, Yang You, Or Litany, Leonidas Guibas, Maks Ovsjanikov* [[abs](https://arxiv.org/abs/2603.29798)], Arxiv 26.03
+    
+24. **AffordMatcher: Affordance Learning in 3D Scenes from Visual Signifiers.**  
+   *Nghia Vu, Tuong Do, Khang Nguyen, Baoru Huang, Nhat Le, Binh Xuan Nguyen, Erman Tjiputra, Quang D. Tran, Ravi Prakash, Te-Chuan Chiu, Anh Nguyen* [[abs](https://arxiv.org/abs/2603.27970)], Arxiv 26.03
+
+
+25. **arg-VU: Affordance Reasoning with Physics-Aware 3D Geometry for Visual Understanding in Robotic Surgery.**  
+   *Nan Xiao, Yunxin Fan, Farong Wang, Fei Liu* [[abs](https://arxiv.org/abs/2603.26814)], Arxiv 26.03
+
+26. **    Part-Aware Open-Vocabulary 3D Affordance Grounding via Prototypical Semantic and Geometric Alignment.**  
+   *Dongqiang Gou, Xuming He* [[abs](https://arxiv.org/abs/2603.17647)], Arxiv 26.03
+    
+
+
+
+
 ### 🧪 Affordance Reasoning
 
 1. **AffordanceLLM: Grounding Affordance from Vision Language Models.**  
@@ -288,7 +305,15 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 27. **FSAG: Enhancing Human-to-Dexterous-Hand Finger-Specific Affordance Grounding via Diffusion Models.**  
    *Yifan Han, Pengfei Yi, Junyan Li, Hanqing Wang, Gaojing Zhang, Qi Peng Liu, Wenzhao Lian* [[abs](https://arxiv.org/abs/2601.08246)], Arxiv 2026.01
 
+28. **RAAP: Retrieval-Augmented Affordance Prediction with Cross-Image Action Alignment.**  
+   *Qiyuan Zhuang, He-Yang Xu, Yijun Wang, Xin-Yang Zhao, Yang-Yang Li, Xiu-Shen Wei* [[abs](https://arxiv.org/abs/2603.29419)], Arxiv 2026.03
 
+29. **BiPreManip: Learning Affordance-Based Bimanual Preparatory Manipulation through Anticipatory Collaboration.**  
+   *Yan Shen, Feng Jiang, Zichen He, Xiaoqi Li, Yuchen Liu, Zhiyu Li, Ruihai Wu, Hao Dong* [[abs](https://arxiv.org/abs/2603.21679)], Arxiv 2026.03
+
+
+30. **Affordance-Guided Enveloping Grasp Demonstration Toward Non-destructive Disassembly of Pinch-Infeasible Mating Parts.**  
+   *Masaki Tsutsumi, Takuya Kiyokawa, Gen Sako, Kensuke Harada* [[abs](https://arxiv.org/abs/2603.21143)], Arxiv 2026.03
 
 ---
 
