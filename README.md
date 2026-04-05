@@ -13,7 +13,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/hq-King/Awesome-Affordance-Learning?style=social)
 
 
-> 🧭 Exploring Embodied AI and Embodied perception ? We hope this collection proves useful in your journey. If you'd like to support the project, feel free to ⭐️ the repo and share it with your peers. Contributions are warmly welcome!
+> 🧭 Exploring Embodied AI and Embodied perception? We hope this collection proves useful in your journey. If you'd like to support the project, feel free to ⭐️ the repo and share it with your peers. Contributions are warmly welcome!
 
 ---
 
@@ -84,7 +84,7 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 10. **Affordance Grounding From Demonstration Video To Target Image.**  
    *Joya Chen, Difei Gao, Kevin Qinghong Lin, Mike Zheng Shou.* [[abs](https://arxiv.org/abs/2303.14644)], CVPR 2023
     
-11. **One-Shot Transfer of Affordance Regions? AffCorrs!.**  
+11. **One-Shot Transfer of Affordance Regions? AffCorrs.**  
    *Denis Hadjivelichkov, Sicelukwanda Zwane, Marc Peter Deisenroth, Lourdes Agapito, Dimitrios Kanoulas.* [[abs](https://arxiv.org/abs/2303.09665)], CoRL 2023
 
 12. **Text-driven Affordance Learning from Egocentric Vision.**  
@@ -184,10 +184,23 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 25. **arg-VU: Affordance Reasoning with Physics-Aware 3D Geometry for Visual Understanding in Robotic Surgery.**  
    *Nan Xiao, Yunxin Fan, Farong Wang, Fei Liu* [[abs](https://arxiv.org/abs/2603.26814)], Arxiv 26.03
 
-26. **    Part-Aware Open-Vocabulary 3D Affordance Grounding via Prototypical Semantic and Geometric Alignment.**  
+26. **Part-Aware Open-Vocabulary 3D Affordance Grounding via Prototypical Semantic and Geometric Alignment.**  
    *Dongqiang Gou, Xuming He* [[abs](https://arxiv.org/abs/2603.17647)], Arxiv 26.03
     
+27. **VideoAfford: Grounding 3D Affordance from Human-Object-Interaction Videos via Multimodal Large Language Model.**  
+   *Hanqing Wang, Mingyu Liu, Xiaoyu Chen, Chengwei MA, Yiming Zhong, Wenti Yin, Yuhao Liu, Zhiqing Cui, Jiahao Yuan, Lu Dai, Zhiyuan Ma, Hui Xiong* [[abs](https://arxiv.org/abs/2602.09638)], Arxiv 26.02
+    
+28. **CompassAD: Intent-Driven 3D Affordance Grounding in Functionally Competing Objects.**  
+   *Jingliang Li, Jindou Jia, Tuo An, Chuhao Zhou, Xiangyu Chen, Shilin Shan, Boyu Ma, Bofan Lyu, Gen Li, Jianfei Yang* [[abs](https://arxiv.org/abs/2604.02060)], Arxiv 26.04
 
+29. **A3R: Agentic Affordance Reasoning via Cross-Dimensional Evidence in 3D Gaussian Scenes.**  
+   *Di Li, Jie Feng, Guanbin Li, Ronghua Shang, Yuhui Zheng, Weisheng Dong, Guangming Shi* [[abs](https://arxiv.org/abs/2604.02060)], Arxiv 26.04
+
+30. **SceneTeract: Agentic Functional Affordances and VLM Grounding in 3D Scenes.**  
+   *Léopold Maillard, Francis Engelmann, Tom Durand, Boxiao Pan, Yang You, Or Litany, Leonidas Guibas, Maks Ovsjanikov* [[abs](https://arxiv.org/abs/2604.02060)], Arxiv 26.04
+
+31. **AffordMatcher: Affordance Learning in 3D Scenes from Visual Signifiers.**  
+   * Nghia Vu, Tuong Do, Khang Nguyen, Baoru Huang, Nhat Le, Binh Xuan Nguyen, Erman Tjiputra, Quang D. Tran, Ravi Prakash, Te-Chuan Chiu, Anh Nguyen* [[abs](https://arxiv.org/abs/2603.27970)], Arxiv 26.03
 
 
 
