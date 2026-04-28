@@ -328,6 +328,8 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 30. **Affordance-Guided Enveloping Grasp Demonstration Toward Non-destructive Disassembly of Pinch-Infeasible Mating Parts.**  
    *Masaki Tsutsumi, Takuya Kiyokawa, Gen Sako, Kensuke Harada* [[abs](https://arxiv.org/abs/2603.21143)], Arxiv 2026.03
 
+31. **BridgeACT: Bridging Human Demonstrations to Robot Actions via Unified Tool-Target Affordances.**  
+   *Yifan Han, Jianxiang Liu, Haoyu Zhang, Yuqi Gu, Yunhan Guo, Wenzhao Lian* [[abs](https://arxiv.org/abs/2604.23249v1)], Arxiv 2026.04
 ---
 
 
