@@ -194,7 +194,7 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
    *Jingliang Li, Jindou Jia, Tuo An, Chuhao Zhou, Xiangyu Chen, Shilin Shan, Boyu Ma, Bofan Lyu, Gen Li, Jianfei Yang* [[abs](https://arxiv.org/abs/2604.02060)], Arxiv 26.04
 
 29. **A3R: Agentic Affordance Reasoning via Cross-Dimensional Evidence in 3D Gaussian Scenes.**  
-   *Di Li, Jie Feng, Guanbin Li, Ronghua Shang, Yuhui Zheng, Weisheng Dong, Guangming Shi* [[abs](https://arxiv.org/abs/2604.02060)], Arxiv 26.04
+   *Di Li, Jie Feng, Guanbin Li, Ronghua Shang, Yuhui Zheng, Weisheng Dong, Guangming Shi* [[abs](https://arxiv.org/abs/2604.01882v1)], Arxiv 26.04
 
 30. **SceneTeract: Agentic Functional Affordances and VLM Grounding in 3D Scenes.**  
    *Léopold Maillard, Francis Engelmann, Tom Durand, Boxiao Pan, Yang You, Or Litany, Leonidas Guibas, Maks Ovsjanikov* [[abs](https://arxiv.org/abs/2604.02060)], Arxiv 26.04
