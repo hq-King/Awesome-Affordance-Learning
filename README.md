@@ -330,6 +330,16 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 
 31. **BridgeACT: Bridging Human Demonstrations to Robot Actions via Unified Tool-Target Affordances.**  
    *Yifan Han, Jianxiang Liu, Haoyu Zhang, Yuqi Gu, Yunhan Guo, Wenzhao Lian* [[abs](https://arxiv.org/abs/2604.23249v1)], Arxiv 2026.04
+
+32. **Afford-VLA: Action-Aligned Visual Planning via Internalized Affordance.**
+    *Runze Wang, Yuqian Fu, Yu Li, Tao Lin, Tianwen Qian, Mohamed Elhoseiny, Bo Zhao, Yanwei Fu, Yu-Gang Jiang, Xiangyang Xue* [[abs](https://arxiv.org/abs/2605.24203)], Arxiv 2026.05
+
+32. **AffordVLA: Injecting Affordance Representations into Vision-Language-Action Models via Implicit Feature Alignment.**
+    *Weijie Kong, Zhian Su, Wei Yu, Huixu Dong* [[abs](https://arxiv.org/abs/2605.17517)], Arxiv 2026.05
+
+
+
+
 ---
 
 
