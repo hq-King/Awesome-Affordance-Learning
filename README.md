@@ -9,7 +9,7 @@
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
 
 ## From Passive Perception to Active Interaction: A Survey of Affordance Learning for Embodied AI
 
@@ -21,7 +21,7 @@
 
 <sup>#</sup>Equal Contribution &nbsp;&nbsp; <sup>‡</sup>Project Lead &nbsp;&nbsp; <sup>†</sup>Corresponding Author
 
-</div>
+</div> -->
 
 
 > 🧭 Exploring Embodied AI and Embodied perception? We hope this collection proves useful in your journey. If you'd like to support the project, feel free to ⭐️ the repo and share it with your peers. Contributions are warmly welcome!
