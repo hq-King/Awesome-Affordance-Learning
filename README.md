@@ -393,7 +393,7 @@ We welcome and appreciate all contributions! Here’s how you can help:
 
 ## 🌟 Acknowledgment
 
-Thanks for the wonderful project: [Awesome-LLM-Empathy](https://github.com/JhCircle/Awesome-LLM-Empathy). This project is built upon it.
+Thanks for the wonderful researchers focusing on affordance learning and embodied AI 
 
 ## 📄 License
 
