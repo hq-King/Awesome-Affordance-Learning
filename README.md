@@ -1,17 +1,9 @@
+
 <div align="center">
 
-# Awesome Affordance Learning
-
-**A curated collection of papers on affordance learning for embodied AI.**
+## From Passive Perception to Active Interaction: A Survey of <br> Affordance Learning for Embodied AI
 
 [![Awesome](https://img.shields.io/badge/Awesome-0066CC?style=for-the-badge&logo=awesome-lists&logoColor=white)](https://github.com/hq-King/Awesome-Affordance-Learning) [![License](https://img.shields.io/badge/License-MIT-2E7D32?style=for-the-badge)](https://opensource.org/licenses/MIT) [![Last Commit](https://img.shields.io/github/last-commit/hq-King/Awesome-Affordance-Learning?style=for-the-badge&color=1F4E79)](https://github.com/hq-King/Awesome-Affordance-Learning/commits) [![GitHub Stars](https://img.shields.io/github/stars/hq-King/Awesome-Affordance-Learning?style=for-the-badge&logo=github&color=000000)](https://github.com/hq-King/Awesome-Affordance-Learning/stargazers)
-
-</div>
-
-
-<!-- <div align="center">
-
-## From Passive Perception to Active Interaction: A Survey of Affordance Learning for Embodied AI
 
 **Gen Li**<sup>1,#,‡</sup>, **Hanqing Wang**<sup>2,#</sup>, **Jingliang Li**<sup>1,#</sup>, **Yifan Han**<sup>3,#</sup>, **Jindou Jia**<sup>1</sup>, **Tao Lin**<sup>3</sup>, **Yutong Wang**<sup>4</sup>, **Bo Zhao**<sup>3</sup>, **Fangqiang Ding**<sup>2</sup>, **Anh Nguyen**<sup>5</sup>, **Laura Sevilla-Lara**<sup>6</sup>, **Gregory S. Chirikjian**<sup>7</sup>, **Huazhe Xu**<sup>8</sup>, **Marc Pollefeys**<sup>9</sup>, **Oier Mees**<sup>9</sup>, **Hui Xiong**<sup>2,†</sup>, **Jianfei Yang**<sup>1,†</sup>
 
@@ -21,7 +13,12 @@
 
 <sup>#</sup>Equal Contribution &nbsp;&nbsp; <sup>‡</sup>Project Lead &nbsp;&nbsp; <sup>†</sup>Corresponding Author
 
-</div> -->
+**A curated collection of papers on affordance learning for embodied AI.**
+
+</div>
+
+
+
 
 
 > 🧭 Exploring Embodied AI and Embodied perception? We hope this collection proves useful in your journey. If you'd like to support the project, feel free to ⭐️ the repo and share it with your peers. Contributions are warmly welcome!
@@ -30,7 +27,6 @@
 
 ## 📖 Contents
 
-- [Awesome Affordance Learning](#awesome-affordance-learning)
 - [🔥 News](#-news)
 - [🌟 Introduction](#-introduction)
 - [🧭 Taxonomy](#-taxonomy)
