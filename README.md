@@ -14,9 +14,9 @@
 
 <sup>#</sup>Equal Contribution &nbsp;&nbsp; <sup>‡</sup>Project Lead &nbsp;&nbsp; <sup>†</sup>Corresponding Author
 
-**A curated collection of papers on affordance learning for embodied AI.**
+**A curated collection of papers on affordance learning for embodied AI.**-->
 
-</div>-->
+</div>
 
 
 
