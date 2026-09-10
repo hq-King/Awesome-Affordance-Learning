@@ -8,9 +8,8 @@
 
 **Gen Li**<sup>1,#,‡</sup>, **Hanqing Wang**<sup>2,#</sup>, **Jingliang Li**<sup>1,#</sup>, **Yifan Han**<sup>3,#</sup>, **Jindou Jia**<sup>1</sup>, **Tao Lin**<sup>3</sup>, **Yuanzhe Liu**<sup>4</sup>, **Yutong Wang**<sup>3</sup>, **Bo Zhao**<sup>3</sup>, **Fangqiang Ding**<sup>2</sup>, **Anh Nguyen**<sup>6</sup>, **Laura Sevilla-Lara**<sup>7</sup>, **Huazhe Xu**<sup>8</sup>, **Gregory S. Chirikjian**<sup>9</sup>, <br> **Marc Pollefeys**<sup>10</sup>,   **Oier Mees**<sup>10</sup>, **Hui Xiong**<sup>2,†</sup>, **Jianfei Yang**<sup>1,†</sup>
 
-<sup>1</sup>Nanyang Technological University &nbsp;&nbsp; <sup>2</sup>HKUST(GZ) &nbsp;&nbsp; <sup>3</sup>Shanghai Jiao Tong University
-<sup>4</sup>The University of Sydney &nbsp;&nbsp;  <br> <sup>5</sup>University of Liverpool &nbsp;&nbsp; <sup>6</sup>The University of Edinburgh
-<sup>7</sup>MBZUAI &nbsp;&nbsp; <sup>8</sup>Tsinghua University &nbsp;&nbsp; <sup>9</sup>ETH Zurich
+<sup>1</sup>Nanyang Technological University &nbsp;&nbsp; <sup>2</sup>HKUST(GZ) &nbsp;&nbsp; <sup>3</sup>Shanghai Jiao Tong University <sup>4</sup>UIUC &nbsp;&nbsp; <sup>5</sup>The University of Sydney &nbsp;&nbsp;  <br> <sup>6</sup>University of Liverpool &nbsp;&nbsp; <sup>7</sup>The University of Edinburgh
+<sup>8</sup>MBZUAI &nbsp;&nbsp; <sup>9</sup>Tsinghua University &nbsp;&nbsp; <sup>10</sup>ETH Zurich
 
 <sup>#</sup>Equal Contribution &nbsp;&nbsp; <sup>‡</sup>Project Lead &nbsp;&nbsp; <sup>†</sup>Corresponding Author
 
