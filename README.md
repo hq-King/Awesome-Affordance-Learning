@@ -38,6 +38,7 @@
   - [📚 Related Surveys](#related-surveys)
 - [🎉 Contributing](#-contributing)
 - [🌟 Acknowledgment](#-acknowledgment)
+- [Citation](#citation)
 - [📄 License](#-license)
 - [👥 Contributors](#-contributors)
 
@@ -48,6 +49,7 @@
 > 📢 This list is **actively maintained**, and community contributions are always appreciated!  
 > Feel free to [open a pull request](https://github.com/hq-King/Awesome-Affordance-Learning/pulls) if you find any relevant papers.
 
+- **[2026-10]** 🎉 Our survey is now avilable on preprint,check it now! [From Passive Perception to Active Interaction: A Survey of Affordance Learning for Embodied AI](https://www.preprints.org/manuscript/202610.0392) 
 - **[2025-05]** 🎉 This repository was launched to curate a comprehensive list of affordance-learning research.
 
 
@@ -390,6 +392,23 @@ We welcome and appreciate all contributions! Here’s how you can help:
 ## 🌟 Acknowledgment
 
 Thanks for the wonderful researchers focusing on affordance learning and embodied AI 
+
+## Citation
+
+If you find our survey or this repository useful in your research, please consider citing our survey:
+
+```bibtex
+@article{202610.0392,
+	doi = {10.20944/preprints202610.0392.v1},
+	url = {https://doi.org/10.20944/preprints202610.0392.v1},
+	year = 2026,
+	month = {October},
+	publisher = {Preprints},
+	author = {Gen Li and Hanqing Wang and Jingliang Li and Yifan Han and Jindou Jia and Tao Lin and Yuanzhe Liu and Yutong Wang and Bo Zhao and Fangqiang Ding and Anh Nguyen and Laura Sevilla-Lara and Huazhe Xu and Gregory S. Chirikjian and Marc Pollefeys and Oier Mees and Hui Xiong and Jianfei Yang},
+	title = {From Passive Perception to Active Interaction: A Survey of Affordance Learning for Embodied AI},
+	journal = {Preprints}
+}
+```
 
 ## 📄 License
 
