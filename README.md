@@ -49,7 +49,7 @@
 > 📢 This list is **actively maintained**, and community contributions are always appreciated!  
 > Feel free to [open a pull request](https://github.com/hq-King/Awesome-Affordance-Learning/pulls) if you find any relevant papers.
 
-- **[2026-10]** 🎉 Our survey is now avilable on preprint,check it now! [From Passive Perception to Active Interaction: A Survey of Affordance Learning for Embodied AI](https://www.preprints.org/manuscript/202610.0392) 
+- **[2026-10]** 🎉 Our survey is now available on preprint; check it now! [From Passive Perception to Active Interaction: A Survey of Affordance Learning for Embodied AI](https://www.preprints.org/manuscript/202610.0392) 
 - **[2025-05]** 🎉 This repository was launched to curate a comprehensive list of affordance-learning research.
 
 
