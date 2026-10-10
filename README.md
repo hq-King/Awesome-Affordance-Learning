@@ -40,7 +40,7 @@ Laura Sevilla-Lara<sup>7</sup>,&#8201;Huazhe Xu<sup>8</sup>,&#8201;Gregory S. Ch
   - [📚 Related Surveys](#related-surveys)
 - [🎉 Contributing](#-contributing)
 - [🌟 Acknowledgment](#-acknowledgment)
-- [Citation](#citation)
+- [🖊️Citation](#citation)
 - [📄 License](#-license)
 - [👥 Contributors](#-contributors)
 
@@ -400,15 +400,19 @@ Thanks for the wonderful researchers focusing on affordance learning and embodie
 If you find our survey or this repository useful in your research, please consider citing our survey:
 
 ```bibtex
-@article{202610.0392,
-	doi = {10.20944/preprints202610.0392.v1},
-	url = {https://doi.org/10.20944/preprints202610.0392.v1},
-	year = 2026,
-	month = {October},
-	publisher = {Preprints},
-	author = {Gen Li and Hanqing Wang and Jingliang Li and Yifan Han and Jindou Jia and Tao Lin and Yuanzhe Liu and Yutong Wang and Bo Zhao and Fangqiang Ding and Anh Nguyen and Laura Sevilla-Lara and Huazhe Xu and Gregory S. Chirikjian and Marc Pollefeys and Oier Mees and Hui Xiong and Jianfei Yang},
-	title = {From Passive Perception to Active Interaction: A Survey of Affordance Learning for Embodied AI},
-	journal = {Preprints}
+@article{li2026affordance,
+  title   = {From Passive Perception to Active Interaction: A Survey
+             of Affordance Learning for Embodied AI},
+  author  = {Li, Gen and Wang, Hanqing and Li, Jingliang and Han, Yifan
+             and Jia, Jindou and Lin, Tao and Liu, Yuanzhe and Wang, Yutong
+             and Zhao, Bo
+             and Ding, Fangqiang and Nguyen, Anh and Sevilla-Lara, Laura
+             and Xu, Huazhe and Chirikjian, Gregory S. and Pollefeys, Marc
+             and Mees, Oier and Xiong, Hui and Yang, Jianfei},
+  journal = {Preprints},
+  year    = {2026},
+  doi     = {10.20944/preprints202610.0392.v1},
+  url     = {https://www.preprints.org/manuscript/202610.0392}
 }
 ```
 
