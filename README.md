@@ -234,6 +234,7 @@ The **Venue/Date** column prioritizes the formal venue and publication year. Pap
 | arXiv 2026 | `CompassAD` | CompassAD: Intent-Driven 3D Affordance Grounding in Functionally Competing Objects | [![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2604.02060) | Language-Centric Affordance Reasoning |
 | arXiv 2026 | `A-Harness` | Affordance Agent Harness: Verification-Gated Skill Orchestration | [![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2605.00663) | Agentic Affordance Reasoning |
 | arXiv 2026 | `AffordMEM` | Grounding by Remembering: Cross-Scene and In-Scene Memory for 3D Functional Affordances | [![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2605.11616) | Agentic Affordance Reasoning |
+| arXiv 2026 | `UNIAFFORD` | UNIAFFORD: Token-Routed Multitask Learning for Generalizable 2D-3D Affordance Perception | [![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2609.37264) | Language-Centric Affordance Reasoning |
 <a id="action"></a>
 ### 🤖 Affordance-Guided Action
 
@@ -300,6 +301,7 @@ The **Venue/Date** column prioritizes the formal venue and publication year. Pap
 | arXiv 2026 | `Affordance2Action` | Affordance2Action: Task-Conditioned Scene-level Affordance Grounding for Real-Time Manipulation | [![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2606.04172) | E2E | explicit/implicit | Integrated policy · Explicit/implicit representation |
 | arXiv 2026 | `GROW2` | GROW2: Grounding Which and Where for Robot Tool Use | [![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2606.30632) | Hierarchical model | explicit | Hierarchical affordance-to-action |
 | arXiv 2026 | `AffordSim` | AffordSim: A Scalable Data Generator and Benchmark for Affordance-Aware Robotic Manipulation | [![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2604.11674) | Hierarchical model | explicit | Hierarchical affordance-to-action · Simulation benchmark |
+| arXiv 2026 | `A4A` | A4A: Cross-Embodiment Transfer of Action-Oriented 4D Affordances from Human Demonstrations | [![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2609.05892) | E2E | implicit | Integrated policy · Implicit representation |
 
 
 <a id="affordance-datasets-benchmarks"></a>
