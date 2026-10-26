@@ -404,19 +404,11 @@ Thanks for the wonderful researchers focusing on affordance learning and embodie
 If you find our survey or this repository useful in your research, please consider citing our survey:
 
 ```bibtex
-@article{li2026affordance,
-  title   = {From Passive Perception to Active Interaction: A Survey
-             of Affordance Learning for Embodied AI},
-  author  = {Li, Gen and Wang, Hanqing and Li, Jingliang and Han, Yifan
-             and Jia, Jindou and Lin, Tao and Liu, Yuanzhe and Wang, Yutong
-             and Zhao, Bo
-             and Ding, Fangqiang and Nguyen, Anh and Sevilla-Lara, Laura
-             and Xu, Huazhe and Chirikjian, Gregory S. and Pollefeys, Marc
-             and Mees, Oier and Xiong, Hui and Yang, Jianfei},
-  journal = {Preprints},
-  year    = {2026},
-  doi     = {10.20944/preprints202610.0392.v1},
-  url     = {https://www.preprints.org/manuscript/202610.0392}
+@article{li2026passive,
+  title={From Passive Perception to Active Interaction: A Survey of Affordance Learning for Embodied AI},
+  author={Li, Gen and Wang, Hanqing and Li, Jingliang and Han, Yifan and Jia, Jindou and Lin, Tao and Liu, Yuanzhe and Wang, Yutong and Zhao, Bo and Ding, Fangqiang and others},
+  year={2026},
+  publisher={Preprints}
 }
 ```
 
